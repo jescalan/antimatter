@@ -62,3 +62,8 @@ Either an object or array of objects that detail the command or commands you are
 - **required** _(string/array)_: optional, required params passed to the command
 - **optional** _(string/array)_: optional, optional commands passed to the command
 - **description** _(string)_: description of the command. wrap any param in angle brackets to highlight it.
+
+### License & Contributing
+
+- Details on the license [can be found here](LICENSE.md)
+- Details on running tests and contributing [can be found here](contributing.md)

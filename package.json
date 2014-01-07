@@ -10,7 +10,8 @@
   },
   "main": "index.js",
   "dependencies": {
-    "coffee-script": "1.x.x"
+    "coffee-script": "1.x.x",
+    "colors": "0.6.x"
   },
   "devDependencies": {
     "mocha": "*",
