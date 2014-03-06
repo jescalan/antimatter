@@ -1,6 +1,6 @@
 {
-  "name": "antimatter",
-  "version": "0.0.0",
+  "name": "anti-matter",
+  "version": "0.0.1",
   "author": "Jeff Escalante <hello@jenius.me>",
   "description": "flexible command line documentation",
   "license": "MIT",
