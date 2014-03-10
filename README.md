@@ -11,14 +11,14 @@ Antimatter attempts to solve this problem as a tool specifically for documenting
 
 ### Installation
 
-`npm install antimatter`
+`npm install anti-matter`
 
 ### Usage
 
 Antimatter makes no assumptions about how you have set up your command line interface, it just provides functions that make generating the documentation easier. Let's take a look at a high level example before we dive into it.
 
 ```js
-var antimatter = require('antimatter');
+var antimatter = require('anti-matter');
 
 antimatter({
   title: 'roots cli',
