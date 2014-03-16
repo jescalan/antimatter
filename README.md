@@ -26,7 +26,7 @@ antimatter({
   commands: [{
     name: 'watch',
     required: 'folder',
-    optional: ['--no-open', '--no-livereload']
+    optional: ['--no-open', '--no-livereload'],
     description: 'watches your project for changes and reloads when detected'
   }, {
     name: 'compile',
@@ -38,7 +38,7 @@ antimatter({
 
 At the moment, antimatter only has one root function - it takes an optional title/header for the doc block, an optional object of options, and either an object or array of objects that represent documented commands. By default it will output a colored and formatted string, ready to print to the command line -- if you pass `{ log: true }` into the options as above, it will `console.log` it for you. Here's a screenshot of what the above would look like in your terminal.
 
-![antimatter docs](https://i.cloudup.com/Md0HeNOkQK.thumb.png)
+![antimatter docs](http://i.imgur.com/1rPOqat.png)
 
 #### API Docs
 
