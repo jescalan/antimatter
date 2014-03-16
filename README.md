@@ -7,7 +7,7 @@ Flexible command line documentation generation
 
 You are writing a command line tool in node, and it needs help and usage commands. At the moment, the only simple option is to use the built-in doc generation abilities of a popular arg parser like [optimist](https://github.com/substack/node-optimist) or [commander](https://github.com/visionmedia/commander), but if you don't exclusively use flags for your command line tool, or you have more complex and/or nested command sets, this can end up being messy or impossible.
 
-Antimatter attempts to solve this problem as a tool specifically for documenting command line interfaces in as simple and east-to-read a manner as possible, regardless of how the interface works or how complicated it is.
+Antimatter attempts to solve this problem as a tool specifically for documenting command line interfaces in as simple and easy-to-read a manner as possible, regardless of how the interface works or how complicated it is.
 
 ### Installation
 
